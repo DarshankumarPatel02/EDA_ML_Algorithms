@@ -1,5 +1,19 @@
 # Customer-Segmentation
 
-## Project to classify different segment/cluster of customer based on past online retail customer dataset.Help to make better business decision for different segment of customer.
+# Customer Segmentation Using ML
 
-- Implemented using Jupyter notebook python 2.7
+A machine learning project for segmenting customers based on their purchasing behaviors.
+
+## Files
+
+- `Customer Segmentation using ML(Final).ipynb`: Jupyter notebook with data preprocessing, model building, and evaluation.
+
+## Requirements
+
+- Python packages: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+
+Install with:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
